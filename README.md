@@ -2,6 +2,7 @@
 Network Administration Internship Program at IT-Simplera Institute.
 
 **Submitted by:** Hammad Zia
+
 **Reg No:** NETB01-4259
 **Domain:** Network Administration
 **Date:** 1st July, 2026
