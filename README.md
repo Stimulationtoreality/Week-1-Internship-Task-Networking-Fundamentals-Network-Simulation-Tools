@@ -1,5 +1,5 @@
 # Week 1 Internship Task-Networking Fundamentals Network Simulation Tools
-Network Administration Internship Program at IT-Simplera Institute.
+Network Administration Internship Program at IT-Simplera Solutions 
 
 **Submitted by:** Hammad Zia
 
@@ -46,4 +46,4 @@ I was already familiar with Cisco Packet Tracer from previous coursework, so bui
 
 ## Notes
 
-This task is part of the Week 1 assignment for the Network Administration Internship Program at IT-Simplera Institute.
+This task is part of the Week 1 assignment for the Network Administration Internship Program at IT-Simplera Solutions.
